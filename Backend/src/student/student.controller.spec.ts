@@ -4,10 +4,7 @@ import { StudentController } from './student.controller';
 describe('StudentController', () => {
   let controller: StudentController;
 
-  beforeEach(async () => {
-    const module: TestingModule = await Test.createTestingModule({
-      controllers: [StudentController],
-    }).compile();
+
 
     controller = module.get<StudentController>(StudentController);
   });
