@@ -13,11 +13,7 @@ export class JwtStrategy extends PassportStrategy(Strategy) {
         @InjectRepository(UserEntity)
         private userRepo: Repository<UserEntity>,
     ) {
-        super({
-            jwtFromRequest: ExtractJwt.fromAuthHeaderAsBearerToken(),
-            ignoreExpiration: false,
-            secretOrKey: process.env.JWT_SECRET || 'secret123',
-        });
+       
     }
 
     async validate(payload: any) {
