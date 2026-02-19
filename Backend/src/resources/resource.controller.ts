@@ -8,10 +8,7 @@ import { JwtAuthGuard } from '../auth/jwt-auth.guard';
 export class ResourceController {
     constructor(private readonly resourceService: ResourceService) { }
 
-    @Get()
-    getAll() {
-        return this.resourceService.findAll();
-    }
+  
 
     @Get(':id')
     getOne(@Param('id') id: string) {
