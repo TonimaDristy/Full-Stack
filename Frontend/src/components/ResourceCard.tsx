@@ -17,7 +17,10 @@ type Resource = {
     date: string;
 };
 
-
+interface ResourceCardProps {
+    resource: Resource;
+    refresh: () => void;
+}
 
 export default function ResourceCard({ resource, refresh }: ResourceCardProps) {
     const [token, setToken] = useState<string | null>(null);
