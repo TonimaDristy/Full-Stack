@@ -5,15 +5,7 @@ import React from 'react';
 const KeyFeatures = () => {
   const features = [
     {
-      icon: "📂",
-      title: "Smart Resource Library",
-      description: "Access notes, slides, PDFs, and assignments categorized by:",
-      details: [
-        "University",
-        "Department", 
-        "Course",
-        "Semester",
-        "Resource Type"
+      
       ]
     },
     {
