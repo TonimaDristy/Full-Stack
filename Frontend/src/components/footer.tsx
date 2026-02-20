@@ -5,7 +5,14 @@ import Link from "next/link";
 export default function Footer() {
   return (
     <>
-      
+      <footer className="footer footer-horizontal bg-gray-100 footer-center text-black rounded p-10">
+        <Image src="/logo.svg" alt="UniShare Logo" width={120} height={40} />
+        <nav className="grid grid-flow-col gap-4">
+          <Link href="/">Home</Link>
+          <Link href="/resources">Resources</Link>
+          <Link href="/about">About</Link>
+          <Link href="/contact">Contact</Link>
+        </nav>
         <nav>
           <div className="grid grid-flow-col gap-4">
             <a>
