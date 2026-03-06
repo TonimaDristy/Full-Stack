@@ -58,6 +58,27 @@ export default function ResourceCard({ resource, refresh }: ResourceCardProps) {
     }
   };
 
+  // Bookmark resource
+  const handleBookmark = async () => {
+    if (!token) return alert("Please login to bookmark.");
+
+    setBookmarking(true);
+    try {
+      await axios.post(
+        `${process.env.NEXT_PUBLIC_API_ENDPOINT}/resources/bookmark/${resource.id}`,
+        {},
+        { headers: { Authorization: `Bearer ${token}` } },
+      );
+      alert("Bookmarked successfully!");
+      refresh();
+    } catch (err) {
+      console.error(err);
+      alert("Failed to bookmark");
+    } finally {
+      setBookmarking(false);
+    }
+  };
+
   // Rate resource
   const handleRate = async () => {
     if (!token) return alert("Please login to rate.");
