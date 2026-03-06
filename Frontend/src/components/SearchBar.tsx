@@ -1,11 +1,7 @@
 
 "use client";
 
-export default function SearchBar({
-    value,
-    onChange,
-}: {
-    value: string;
+e   value: string;
     onChange: (text: string) => void;
 }) {
     return (
