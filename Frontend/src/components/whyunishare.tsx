@@ -26,12 +26,7 @@ const WhyUniShare = () => {
               </h2>
             </div>
 
-            {/* Features List */}
-            <div className="space-y-4 mb-8">
-              {features.map((feature, index) => (
-                <div key={index} className="flex items-start gap-3 group">
-                  <div className="w-6 h-6 text-green-500 shrink-0 mt-0.5 group-hover:scale-110 transition-transform">
-                    <svg
+         
                       xmlns="http://www.w3.org/2000/svg"
                       className="h-6 w-6"
                       fill="none"
