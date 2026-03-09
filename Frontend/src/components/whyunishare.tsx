@@ -2,13 +2,7 @@
 import Link from 'next/link';
 import React from 'react';
 
-const WhyUniShare = () => {
-  const features = [
-    "Centralized academic resources",
-    "No more scattered PDFs",
-    "Peer-verified materials",
-    "Modern and intuitive experience"
-  ];
+
 
   return (
     <div className="py-16 px-4 bg-linear-to-br from-indigo-50 via-white to-blue-50">
