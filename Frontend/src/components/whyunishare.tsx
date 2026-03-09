@@ -1,14 +1,19 @@
 // WhyUniShare.jsx
-import Link from 'next/link';
-import React from 'react';
+import Link from "next/link";
+import React from "react";
 
-
+const WhyUniShare = () => {
+  const features = [
+    "Centralized academic resources",
+    "No more scattered PDFs",
+    "Peer-verified materials",
+    "Modern and intuitive experience",
+  ];
 
   return (
     <div className="py-16 px-4 bg-linear-to-br from-indigo-50 via-white to-blue-50">
       <div className="max-w-6xl mx-auto">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-          
           {/* Left Side - Main Content */}
           <div>
             {/* Icon & Title */}
@@ -26,8 +31,19 @@ import React from 'react';
               {features.map((feature, index) => (
                 <div key={index} className="flex items-start gap-3 group">
                   <div className="w-6 h-6 text-green-500 shrink-0 mt-0.5 group-hover:scale-110 transition-transform">
-                    <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="h-6 w-6"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      stroke="currentColor"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M5 13l4 4L19 7"
+                      />
                     </svg>
                   </div>
                   <span className="text-lg text-gray-700 font-medium group-hover:text-gray-900 transition-colors">
@@ -44,16 +60,14 @@ import React from 'react';
               </p>
             </div>
           </div>
-            {/* Right Side - Image */}
-            <div className="flex justify-center lg:justify-end">
+          {/* Right Side - Image */}
+          <div className="flex justify-center lg:justify-end">
             <img
               src="/whyus.jpg"
               alt="Why UniShare Illustration"
               className="w-full max-w-md rounded-lg shadow-lg"
             />
-            </div>
-          
-
+          </div>
         </div>
       </div>
     </div>
