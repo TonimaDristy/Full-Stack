@@ -52,6 +52,13 @@ const WhyUniShare = () => {
                 </div>
               ))}
             </div>
+
+            {/* Tagline */}
+            <div className="bg-linear-to-r from-blue-50 to-indigo-50 rounded-xl p-6 border border-blue-100">
+              <p className="text-xl font-semibold text-gray-800 italic">
+                "Learning is better when shared."
+              </p>
+            </div>
           </div>
           {/* Right Side - Image */}
           <div className="flex justify-center lg:justify-end">
