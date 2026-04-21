@@ -4,8 +4,7 @@
 
 <p align="center">
    <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/Screenshot%202026-04-21%20190453.png" width="30%" />
-  <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/afb83ee2-a80e-4bca-a742-4c8903c6c0fa.jpg" width="30%" />
-</p>
+ </p>
 
 🚀 A full-stack university resource-sharing platform designed to make studying more **collaborative, organized, and efficient**.
 
@@ -24,7 +23,11 @@ Students can browse, download, bookmark, and rate academic resources like PDFs, 
 - ➕ Create: Upload and add study materials  
 - 📖 Read: Browse, search, and filter by category, semester, and type  
 - ✏️ Update: Edit resource details, ratings, and bookmarks  
-- ❌ Delete: Secure deletion with authorization  
+- ❌ Delete: Secure deletion with authorization
+
+  <p align="center">
+    <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/afb83ee2-a80e-4bca-a742-4c8903c6c0fa.jpg" width="30%" />
+</p> 
 
 ### ⭐ Interactive Features
 - ⬇️ Download study materials  
