@@ -18,7 +18,7 @@ Students can browse, download, bookmark, and rate academic resources like PDFs, 
 - JWT-based secure authentication with token generation
 - 
   <p align="center">
-     <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/Screenshot%202026-04-22%20011607.png" width="30%" />
+     <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/Screenshot%202026-04-22%20011607.png" width="50%" />
    </p>
 
 - Role-based access control
@@ -31,7 +31,7 @@ Students can browse, download, bookmark, and rate academic resources like PDFs, 
 - ❌ Delete: Secure deletion with authorization
 
   <p align="center">
-    <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/afb83ee2-a80e-4bca-a742-4c8903c6c0fa.jpg" width="30%" />
+    <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/afb83ee2-a80e-4bca-a742-4c8903c6c0fa.jpg" width="50%" />
 </p> 
 
 ### ⭐ Interactive Features
@@ -58,7 +58,7 @@ Students can browse, download, bookmark, and rate academic resources like PDFs, 
 - PostgreSQL
 
   <p align="center">
-     <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/Screenshot%202026-04-22%20011454.png" width="30%" />
+     <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/Screenshot%202026-04-22%20011454.png" width="50%" />
    </p>
    
 - TypeORM  
@@ -74,7 +74,7 @@ Students can browse, download, bookmark, and rate academic resources like PDFs, 
 
   
 <p align="center">
-     <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/Screenshot%202026-04-22%20011525.png" width="30%" />
+     <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/Screenshot%202026-04-22%20011525.png" width="50%" />
    </p>
   
 - REST APIs  
