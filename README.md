@@ -15,7 +15,8 @@ Students can browse, download, bookmark, and rate academic resources like PDFs, 
 ## ✨ Key Features
 
 ### 🔐 Authentication & Security
-- JWT-based secure authentication
+- JWT-based secure authentication with token generation  
+
 - Role-based access control
 - Student-only resource access
 
