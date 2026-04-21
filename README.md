@@ -15,7 +15,11 @@ Students can browse, download, bookmark, and rate academic resources like PDFs, 
 ## ✨ Key Features
 
 ### 🔐 Authentication & Security
-- JWT-based secure authentication with token generation  
+- JWT-based secure authentication with token generation
+- 
+  <p align="center">
+     <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/Screenshot%202026-04-22%20011607.png" width="30%" />
+   </p>
 
 - Role-based access control
 - Student-only resource access
@@ -50,12 +54,13 @@ Students can browse, download, bookmark, and rate academic resources like PDFs, 
 - NestJS (Node.js / Express-based framework)  
 - RESTful API architecture  
 
-<p align="center">
-     <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/935c0a72-fa64-41cd-bb6d-cb92ceb7af51.jpg" width="30%" />
-   </p>
-
 ### Database
-- PostgreSQL  
+- PostgreSQL
+
+  <p align="center">
+     <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/Screenshot%202026-04-22%20011454.png" width="30%" />
+   </p>
+   
 - TypeORM  
 
 ### Authentication & Security
@@ -65,7 +70,13 @@ Students can browse, download, bookmark, and rate academic resources like PDFs, 
 
 ### Tools & APIs
 - Axios  
-- Postman (API testing & documentation)  
+- Postman (API testing & documentation)
+
+  
+<p align="center">
+     <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/Screenshot%202026-04-22%20011525.png" width="30%" />
+   </p>
+  
 - REST APIs  
 
 ---
