@@ -3,9 +3,9 @@
 <h2 align="left">📸 Demo</h2>
 
 <p align="center">
-  <img src="https://github.com/TonimaDristy/School-Web/raw/main/img1.jpg" width="30%" />
-  <img src="https://github.com/TonimaDristy/School-Web/raw/main/img2.jpg" width="30%" />
-  <img src="https://github.com/TonimaDristy/School-Web/raw/main/img3.jpg" width="30%" />
+  <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/6a83b974-55a5-42f3-b834-64aeb9c89e0a.jpg" width="30%" />
+  <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/935c0a72-fa64-41cd-bb6d-cb92ceb7af51.jpg" width="30%" />
+  <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/afb83ee2-a80e-4bca-a742-4c8903c6c0fa.jpg" width="30%" />
 </p>
 
 🚀 A full-stack university resource-sharing platform designed to make studying more **collaborative, organized, and efficient**.
