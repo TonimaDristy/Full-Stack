@@ -4,8 +4,7 @@
 
 <p align="center">
    <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/Screenshot%202026-04-21%20190453.png" width="30%" />
-  <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/935c0a72-fa64-41cd-bb6d-cb92ceb7af51.jpg" width="30%" />
-   <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/afb83ee2-a80e-4bca-a742-4c8903c6c0fa.jpg" width="30%" />
+  <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/afb83ee2-a80e-4bca-a742-4c8903c6c0fa.jpg" width="30%" />
 </p>
 
 🚀 A full-stack university resource-sharing platform designed to make studying more **collaborative, organized, and efficient**.
@@ -46,6 +45,10 @@ Students can browse, download, bookmark, and rate academic resources like PDFs, 
 ### Backend
 - NestJS (Node.js / Express-based framework)  
 - RESTful API architecture  
+
+<p align="center">
+     <img src="https://github.com/TonimaDristy/Full-Stack/raw/main/935c0a72-fa64-41cd-bb6d-cb92ceb7af51.jpg" width="30%" />
+   </p>
 
 ### Database
 - PostgreSQL  
